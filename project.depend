@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601733574 source:f:\study\data\bst\project\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+	"LinkedListProduct.h"
+	"StackClass.h"
+
+1601733588 f:\study\data\bst\project\linkedlistproduct.h
+	<bits/stdc++.h>
+
+1601733590 f:\study\data\bst\project\stackclass.h
+	<bits/stdc++.h>
+	<string>
+
